@@ -1,0 +1,8 @@
+<!DOCTYPE settings SYSTEM 'settings.dtd'>
+<settings>
+  <settings>
+    <setting id="msxjoystick1_config">UP {{joy1 hat0 up}} DOWN {{joy1 hat0 down}} LEFT {{joy1 hat0 left}} RIGHT {{joy1 hat0 right}} A {{joy1 button0} {mouse button1}} B {{joy1 button1} {mouse button3}}</setting>
+  </settings>
+  <bindings/>
+  <shortcuts/>
+</settings>
